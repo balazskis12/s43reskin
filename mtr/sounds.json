@@ -1,0 +1,84 @@
+{
+
+	"dt8_11_door_open": {
+		"sounds": [
+			{
+				"name": "mtr:dt8_11/door_open",
+				"pitch": 0.5
+			}
+		]
+	},
+	"dt8_11_door_close": {
+		"sounds": [
+			{
+				"name": "mtr:dt8_11/door_close",
+				"pitch": 0.5
+			}
+		]
+	},
+	"dt8_4_door_open": {
+		"sounds": [
+			{
+				"name": "mtr:dt8_4/door_open",
+				"pitch": 0.5
+			}
+		]
+	},
+	"dt8_4_door_close": {
+		"sounds": [
+			{
+				"name": "mtr:dt8_4/door_close",
+				"pitch": 0.5
+			}
+		]
+	},
+	"b_druckluft_door_open": {
+		"sounds": [
+			{
+				"name": "mtr:b_druckluft/door_open",
+				"pitch": 0.5
+			}
+		]
+	},
+	"b_druckluft_door_close": {
+		"sounds": [
+			{
+				"name": "mtr:b_druckluft/door_close",
+				"pitch": 0.5
+			}
+		]
+	},
+	"lrt2010_door_open": {
+		"sounds": [
+			{
+				"name": "mtr:lrt2010/door_open",
+				"pitch": 0.5
+			}
+		]
+	},
+	"lrt2010_door_close": {
+		"sounds": [
+			{
+				"name": "mtr:lrt2010/door_close",
+				"pitch": 0.5
+			}
+		]
+	},
+	"lrt2020_door_open": {
+		"sounds": [
+			{
+				"name": "mtr:lrt2020/door_open",
+				"pitch": 0.5
+			}
+		]
+	},
+	"lrt2020_door_close": {
+		"sounds": [
+			{
+				"name": "mtr:lrt2020/door_close",
+				"pitch": 0.5
+			}
+		]
+	}
+}
+	
