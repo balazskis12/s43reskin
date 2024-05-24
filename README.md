@@ -5,5 +5,5 @@ The pack is free for anyone to use on any private/public server and/or singlepla
 Please **DO NOT** repost the files and **DO NOT** claim any of them as your own work.
 Original models from S43 from whom we have permission to edit and release changes.
 
-Support me: patreon.com/Steamville
+Support me: https://www.patreon.com/Steamville
 Join Steamville: https://discord.gg/86PTpm5G8h
