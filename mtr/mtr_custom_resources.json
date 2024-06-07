@@ -1,125 +1,111 @@
 {"custom_trains":
     {
-    "s43tec_lrt1995_win95":{
-        "name":"S43-Tec LRT 1995 Windows 95 Livery",
-        "description":"A fictional LRV from Germany, built in 1995 with Windows 95 livery.",
-        "wikipedia_article":"",
-        "color":"62CF43",
-        "gangway_connection_id":"mtr:s43tec_lrt1995/testtram",
-        "train_barrier_id":"",
-        "door_animation_type":"PLUG_FAST",
-        "render_door_overlay":false,
-        "rider_offset":0.0,
-        "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_win95",
-        "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
-        "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
-        "speed_sound_count": 90,
-        "speed_sound_base_id": "light_rail_mitsubishi",
-        "door_sound_base_id": "dt8_11"
+		"s43tec_lrt1995_win95":{
+			"name":"S43-Tec LRT 1995 Windows 95 Livery",
+			"description":"A fictional LRV from Germany, built in 1995 with Windows 95 livery.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt1995/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_win95",
+			"model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
+			"model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
+			"bve_sound_base_id": "stadtbahn_1995"
     },
-    "s43tec_lrt1995_win95_drivable":{
-        "name":"S43-Tec LRT 1995 Windows 95 Livery Drivable",
-        "description":"Like the default LRT 1995 Windows 95 livery, but without a driver, suitable for drivables.",
-        "wikipedia_article":"",
-        "color":"62CF43",
-        "gangway_connection_id":"mtr:s43tec_lrt1995/testtram",
-        "train_barrier_id":"",
-        "door_animation_type":"PLUG_FAST",
-        "render_door_overlay":false,
-        "rider_offset":0.0,
-        "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_win95",
-        "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
-        "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995_dr.json",
-        "speed_sound_count": 90,
-        "speed_sound_base_id": "light_rail_mitsubishi",
-        "door_sound_base_id": "dt8_11"
+		"s43tec_lrt1995_win95_drivable":{
+			"name":"S43-Tec LRT 1995 Windows 95 Livery Drivable",
+			"description":"Like the default LRT 1995 Windows 95 livery, but without a driver, suitable for drivables.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt1995/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_win95",
+			"model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
+			"model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995_dr.json",
+			"bve_sound_base_id": "stadtbahn_1995"
     },
 	   "s43tec_lrt2002_blue":{
-        "name":"S43-Tec LRT 2002 Blue Livery",
-        "description":"A fictional LRV from Germany, built in 2002 with a blue livery.",
-        "wikipedia_article":"",
-        "color":"62CF43",
-        "gangway_connection_id":"mtr:s43tec_lrt2002/testtram",
-        "train_barrier_id":"",
-        "door_animation_type":"PLUG_FAST",
-        "render_door_overlay":false,
-        "rider_offset":0.0,
-        "texture_id":"mtr:s43tec_lrt2002/s43tec_lrt2002_blue",
-        "model":"mtr:s43tec_lrt2002/s43tec_lrt2002.bbmodel",
-        "model_properties":"mtr:s43tec_lrt2002/s43tec_lrt2002.json",
-        "speed_sound_count": 90,
-        "speed_sound_base_id": "sp1900",
-        "door_sound_base_id": "dt8_11"
+			"name":"S43-Tec LRT 2002 Blue Livery",
+			"description":"A fictional LRV from Germany, built in 2002 with a blue livery.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2002/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2002/s43tec_lrt2002_blue",
+			"model":"mtr:s43tec_lrt2002/s43tec_lrt2002.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2002/s43tec_lrt2002.json",
+			"bve_sound_base_id": "stadtbahn_2002"
     },
-		   "s43tec_lrt2002_green":{
-        "name":"S43-Tec LRT 2002 Green Livery",
-        "description":"A fictional LRV from Germany, built in 2002 with a green livery.",
-        "wikipedia_article":"",
-        "color":"62CF43",
-        "gangway_connection_id":"mtr:s43tec_lrt2002/testtram",
-        "train_barrier_id":"",
-        "door_animation_type":"PLUG_FAST",
-        "render_door_overlay":false,
-        "rider_offset":0.0,
-        "texture_id":"mtr:s43tec_lrt2002/s43tec_lrt2002_green",
-        "model":"mtr:s43tec_lrt2002/s43tec_lrt2002.bbmodel",
-        "model_properties":"mtr:s43tec_lrt2002/s43tec_lrt2002.json",
-        "speed_sound_count": 90,
-        "speed_sound_base_id": "sp1900",
-        "door_sound_base_id": "dt8_11"
+		"s43tec_lrt2002_green":{
+			"name":"S43-Tec LRT 2002 Green Livery",
+			"description":"A fictional LRV from Germany, built in 2002 with a green livery.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2002/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2002/s43tec_lrt2002_green",
+			"model":"mtr:s43tec_lrt2002/s43tec_lrt2002.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2002/s43tec_lrt2002.json",
+			"bve_sound_base_id": "stadtbahn_2002"
 	},
-		   "s43tec_lrt2002_yellow":{
-        "name":"S43-Tec LRT 2002 Yellow Livery",
-        "description":"A fictional LRV from Germany, built in 2002 with a Yellow livery.",
-        "wikipedia_article":"",
-        "color":"62CF43",
-        "gangway_connection_id":"mtr:s43tec_lrt2002/testtram",
-        "train_barrier_id":"",
-        "door_animation_type":"PLUG_FAST",
-        "render_door_overlay":false,
-        "rider_offset":0.0,
-        "texture_id":"mtr:s43tec_lrt2002/s43tec_lrt2002_yellow",
-        "model":"mtr:s43tec_lrt2002/s43tec_lrt2002.bbmodel",
-        "model_properties":"mtr:s43tec_lrt2002/s43tec_lrt2002.json",
-        "speed_sound_count": 90,
-        "speed_sound_base_id": "sp1900",
-        "door_sound_base_id": "dt8_11"
+		"s43tec_lrt2002_yellow":{
+			"name":"S43-Tec LRT 2002 Yellow Livery",
+			"description":"A fictional LRV from Germany, built in 2002 with a Yellow livery.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2002/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2002/s43tec_lrt2002_yellow",
+			"model":"mtr:s43tec_lrt2002/s43tec_lrt2002.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2002/s43tec_lrt2002.json",
+			"bve_sound_base_id": "stadtbahn_2002"
     },
-	        "btr_smol_ii":{
-            "name":"S43-Tec BTR Smol II",
-            "description":"A fictional LRV made by BTR.",
-            "wikipedia_article":"",
-            "color":"62CF43",
-            "gangway_connection_id":"",
-            "train_barrier_id":"",
-            "door_animation_type":"PLUG_FAST",
-            "render_door_overlay":false,
-            "rider_offset":0.0,
-            "texture_id":"mtr:btr_smol_ii/btr_smol_ii",
-            "model":"mtr:s43tec_lrt2020/s43tec_lrt2020.bbmodel",
-            "model_properties":"mtr:s43tec_lrt2020/s43tec_lrt2020.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+	    "btr_smol_ii":{
+			"name":"BTR Smol II",
+			"description":"A fictional Two System Tram made by BTR.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_SLOW",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:btr_smol_ii/btr_smol_ii",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024.json",
+			"bve_sound_base_id": "btr_smol_ii"
         },
-		   "s43tec_lrt1975_lobotomy":{
-        "name":"S43-Tec LRT 1975 LOBOTOMY",
-        "description":"A fictional LRV from Germany, built in 1975 (With LOBOTOMY Venner, made by BTR).",
-        "wikipedia_article":"",
-        "color":"62CF43",
-        "train_barrier_id":"",
-        "door_animation_type":"PLUG_FAST",
-        "render_door_overlay":false,
-        "rider_offset":0.0,
-        "texture_id":"mtr:s43tec_lrt1975_lobotomy/s43tec_lrt1975_lobotomy",
-        "model":"mtr:s43tec_lrt1975_lobotomy/s43tec_lrt1975_lobotomy.bbmodel",
-        "model_properties":"mtr:s43tec_lrt1975_lobotomy/s43tec_lrt1975_lobotomy.json",
-        "has_gangway_connection": false,
-        "speed_sound_count": 90,
-        "speed_sound_base_id": "m_train",
-        "door_sound_base_id": "b_druckluft"
+		"s43tec_lrt1975_lobotomy":{
+			"name":"S43-Tec LRT 1975 LOBOTOMY",
+			"description":"A fictional LRV from Germany, built in 1975 (With LOBOTOMY Venner, made by BTR).",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt1975_lobotomy/s43tec_lrt1975_lobotomy",
+			"model":"mtr:s43tec_lrt1975_lobotomy/s43tec_lrt1975_lobotomy.bbmodel",
+			"model_properties":"mtr:s43tec_lrt1975_lobotomy/s43tec_lrt1975_lobotomy.json",
+			"has_gangway_connection": false,
+			"bve_sound_base_id": "stadtbahn_1975"
 	},
-    "amtrak":{
+		"amtrak":{
             "name":"Fictional Adok Tram, Grey Livery",
             "description": "Fictional tram from the game Tram Sim Urban Transit",
             "wikipedia_article":"",
@@ -132,9 +118,7 @@
             "texture_id":"mtr:amtrak/amtrak",
             "model":"mtr:amtrak/amtrak.bbmodel",
             "model_properties":"mtr:amtrak/amtrak.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
     },
         "amtrak_driveable":{
             "name":"Fictional Adok Grey Livery Driveable",
@@ -149,9 +133,7 @@
             "texture_id":"mtr:amtrak/amtrak",
             "model":"mtr:amtrak/amtrak.bbmodel",
             "model_properties":"mtr:amtrak/amtrak_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "alstom_citadis_sarga": {
             "name":"Alstom Citadis, Yellow",
@@ -166,9 +148,7 @@
             "texture_id":"mtr:alstom_citadis_sarga/alstom_citadis_sarga",
             "model":"mtr:alstom_citadis_sarga/alstom_citadis_sarga.bbmodel",
             "model_properties":"mtr:alstom_citadis_sarga/alstom_citadis_sarga.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "alstom_citadis_sarga_dr": {
             "name":"Alstom Citadis, Yellow, Driveable",
@@ -183,9 +163,7 @@
             "texture_id":"mtr:alstom_citadis_sarga/alstom_citadis_sarga",
             "model":"mtr:alstom_citadis_sarga/alstom_citadis_sarga.bbmodel",
             "model_properties":"mtr:alstom_citadis_sarga/alstom_citadis_sarga_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "alstom_citadis_blue": {
             "name":"Alstom Citadis, Doha Variant",
@@ -200,12 +178,10 @@
             "texture_id":"mtr:alstom_citadis_blue/alstom_citadis_blue",
             "model":"mtr:alstom_citadis_blue/alstom_citadis_sarga.bbmodel",
             "model_properties":"mtr:alstom_citadis_blue/alstom_citadis_sarga.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "alstom_citadis_blue_dr": {
-            "name":"Alstom Citadis, Doha Variant",
+            "name":"Alstom Citadis, Doha Variant, Drivable",
             "description": "Cyan Alstom Citadis model from the Doha Tramway, Requested by Bo Khalid, but without a driver, suitable for driveables.",
             "wikipedia_article":"",
             "color":"437777",
@@ -217,26 +193,52 @@
             "texture_id":"mtr:alstom_citadis_blue/alstom_citadis_blue",
             "model":"mtr:alstom_citadis_blue/alstom_citadis_sarga.bbmodel",
             "model_properties":"mtr:alstom_citadis_blue/alstom_citadis_sarga.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
+		"caf_urbino":{
+        "name":"CAF Urbino 3",
+        "description":"Budapest's yellow, CAF tram.",
+        "wikipedia_article":"",
+        "color":"62CF43",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:caf_urbino/caf_urbino",
+        "model":"mtr:caf_urbino/caf_urbino.bbmodel",
+        "model_properties":"mtr:caf_urbino/caf_urbino.json",
+		"bve_sound_base_id": "stadtbahn_2018"
+		},
+		"caf_urbino_dr":{
+        "name":"CAF Urbino 3 (Driveable)",
+        "description":"Budapest's yellow, CAF tram, but without a driver.",
+        "wikipedia_article":"",
+        "color":"62CF43",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:caf_urbino/caf_urbino",
+        "model":"mtr:caf_urbino/caf_urbino.bbmodel",
+        "model_properties":"mtr:caf_urbino/caf_urbino_dr.json",
+		"bve_sound_base_id": "stadtbahn_2018"
+		},
         "s43tec_lrt1978":{
             "name":"S43-Tec LRT 1978",
             "description":"A fictional LRV from Germany, built in 1978.",
             "wikipedia_article":"",
             "color":"62CF43",
             "train_barrier_id":"",
-            "door_animation_type":"PLUG_SLOW",
+            "door_animation_type":"BOUNCY_2",
             "render_door_overlay":false,
             "rider_offset":0.0,
             "texture_id":"mtr:s43tec_lrt1975/s43tec_lrt1978",
             "model":"mtr:s43tec_lrt1975/s43tec_lrt1975.bbmodel",
             "model_properties":"mtr:s43tec_lrt1975/s43tec_lrt1975.json",
             "has_gangway_connection": false,
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "mlr",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1975"
         },    
         "s43tec_lrt1978_blue":{
             "name":"S43-Tec LRT 1978 Blue Livery",
@@ -244,16 +246,14 @@
             "wikipedia_article":"",
             "color":"62CF43",
             "train_barrier_id":"",
-            "door_animation_type":"PLUG_SLOW",
+            "door_animation_type":"BOUNCY_2",
             "render_door_overlay":false,
             "rider_offset":0.0,
             "texture_id":"mtr:s43tec_lrt1975/s43tec_lrt1978_blue",
             "model":"mtr:s43tec_lrt1975/s43tec_lrt1975.bbmodel",
             "model_properties":"mtr:s43tec_lrt1975/s43tec_lrt1975.json",
             "has_gangway_connection": false,
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "mlr",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1975"
         },    
         "s43tec_lrt1978_yellow":{
             "name":"S43-Tec LRT 1978 Yellow Livery",
@@ -261,16 +261,14 @@
             "wikipedia_article":"",
             "color":"62CF43",
             "train_barrier_id":"",
-            "door_animation_type":"PLUG_SLOW",
+            "door_animation_type":"BOUNCY_2",
             "render_door_overlay":false,
             "rider_offset":0.0,
             "texture_id":"mtr:s43tec_lrt1975/s43tec_lrt1978_yellow",
             "model":"mtr:s43tec_lrt1975/s43tec_lrt1975.bbmodel",
             "model_properties":"mtr:s43tec_lrt1975/s43tec_lrt1975.json",
             "has_gangway_connection": false,
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "mlr",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1975"
         },    
         "s43tec_lrt1978_green":{
             "name":"S43-Tec LRT 1978 Green Livery",
@@ -278,16 +276,14 @@
             "wikipedia_article":"",
             "color":"62CF43",
             "train_barrier_id":"",
-            "door_animation_type":"PLUG_SLOW",
+            "door_animation_type":"BOUNCY_2",
             "render_door_overlay":false,
             "rider_offset":0.0,
             "texture_id":"mtr:s43tec_lrt1975/s43tec_lrt1978_green",
             "model":"mtr:s43tec_lrt1975/s43tec_lrt1975.bbmodel",
             "model_properties":"mtr:s43tec_lrt1975/s43tec_lrt1975.json",
             "has_gangway_connection": false,
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "mlr",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1975"
         },    
         "s43tec_lrt1975_blue":{
             "name":"S43-Tec LRT 1975 Blue Livery",
@@ -302,9 +298,7 @@
             "model":"mtr:s43tec_lrt1975/s43tec_lrt1975.bbmodel",
             "model_properties":"mtr:s43tec_lrt1975/s43tec_lrt1975.json",
             "has_gangway_connection": false,
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "m_train",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1975"
         },    
         "s43tec_lrt1975_yellow":{
             "name":"S43-Tec LRT 1975 Yellow Livery",
@@ -319,9 +313,7 @@
             "model":"mtr:s43tec_lrt1975/s43tec_lrt1975.bbmodel",
             "model_properties":"mtr:s43tec_lrt1975/s43tec_lrt1975.json",
             "has_gangway_connection": false,
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "m_train",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1975"
         },    
         "s43tec_lrt1975_green":{
             "name":"S43-Tec LRT 1975 Green Livery",
@@ -335,10 +327,7 @@
             "texture_id":"mtr:s43tec_lrt1975/s43tec_lrt1975_green",
             "model":"mtr:s43tec_lrt1975/s43tec_lrt1975.bbmodel",
             "model_properties":"mtr:s43tec_lrt1975/s43tec_lrt1975.json",
-            "has_gangway_connection": false,
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "m_train",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1975"
         },    
         "s43tec_lrt1980_blue":{
             "name":"S43-Tec LRT 1980 Blue Livery",
@@ -353,9 +342,7 @@
             "texture_id":"mtr:s43tec_lrt1980/s43tec_lrt1980_blue",
             "model":"mtr:s43tec_lrt1980/s43tec_lrt1980.bbmodel",
             "model_properties":"mtr:s43tec_lrt1980/s43tec_lrt1980.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_aeg",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1980"
         },    
         "s43tec_lrt1980_yellow":{
             "name":"S43-Tec LRT 1980 Yellow Livery",
@@ -370,9 +357,7 @@
             "texture_id":"mtr:s43tec_lrt1980/s43tec_lrt1980_yellow",
             "model":"mtr:s43tec_lrt1980/s43tec_lrt1980.bbmodel",
             "model_properties":"mtr:s43tec_lrt1980/s43tec_lrt1980.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_aeg",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1980"
         },    
         "s43tec_lrt1980_green":{
             "name":"S43-Tec LRT 1980 Green Livery",
@@ -387,9 +372,7 @@
             "texture_id":"mtr:s43tec_lrt1980/s43tec_lrt1980_green",
             "model":"mtr:s43tec_lrt1980/s43tec_lrt1980.bbmodel",
             "model_properties":"mtr:s43tec_lrt1980/s43tec_lrt1980.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_aeg",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1980"
         },
         "s43tec_lrt1980mod_blue":{
             "name":"S43-Tec LRT 1980 Modernized, Blue Livery",
@@ -404,9 +387,7 @@
             "texture_id":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod_blue",
             "model":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod.bbmodel",
             "model_properties":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "lrt2010"
+            "bve_sound_base_id": "stadtbahn_1980mod"
         },
         "s43tec_lrt1980mod_yellow":{
             "name":"S43-Tec LRT 1980 Modernized, Yellow Livery",
@@ -421,9 +402,7 @@
             "texture_id":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod_yellow",
             "model":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod.bbmodel",
             "model_properties":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "lrt2010"
+            "bve_sound_base_id": "stadtbahn_1980mod"
         },
         "s43tec_lrt1980mod_green":{
             "name":"S43-Tec LRT 1980 Modernized, Green Livery",
@@ -438,11 +417,8 @@
             "texture_id":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod_green",
             "model":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod.bbmodel",
             "model_properties":"mtr:s43tec_lrt1980mod/s43tec_lrt1980mod.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "lrt2010"
+            "bve_sound_base_id": "stadtbahn_1980mod"
         },
-       
         "s43tec_lrt1995_win95_blue":{
             "name":"S43-Tec LRT 1995 Windows 95 Blue Livery",
             "description":"A fictional LRV from Germany, built in 1995 with Windows 95 Blue livery.",
@@ -456,9 +432,7 @@
             "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_win95_blue",
             "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
             "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "dt8_11"
+            "bve_sound_base_id": "stadtbahn_1995"
         },
         "s43tec_lrt1995_win95_yellow":{
             "name":"S43-Tec LRT 1995 Windows 95 Yellow Livery",
@@ -473,9 +447,7 @@
             "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_win95_yellow",
             "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
             "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "dt8_11"
+            "bve_sound_base_id": "stadtbahn_1995"
         },
         "s43tec_lrt1995_win95_green":{
             "name":"S43-Tec LRT 1995 Windows 95 Green Livery",
@@ -490,9 +462,7 @@
             "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_win95_green",
             "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
             "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "dt8_11"
+            "bve_sound_base_id": "stadtbahn_1995"
         },
         "s43tec_lrt1995_win95_color":{
             "name":"S43-Tec LRT 1995 Windows 95 Colorful Livery",
@@ -507,9 +477,7 @@
             "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_win95_color",
             "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
             "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "dt8_11"
+            "bve_sound_base_id": "stadtbahn_1995"
         },
         "s43tec_lrt1995_blue":{
             "name":"S43-Tec LRT 1995 Blue Livery",
@@ -524,9 +492,7 @@
             "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_blue",
             "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
             "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "dt8_11"
+            "bve_sound_base_id": "stadtbahn_1995"
         },
         "s43tec_lrt1995_yellow":{
             "name":"S43-Tec LRT 1995 Yellow Livery",
@@ -541,9 +507,7 @@
             "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_yellow",
             "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
             "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "dt8_11"
+            "bve_sound_base_id": "stadtbahn_1995"
         },
         "s43tec_lrt1995_green":{
             "name":"S43-Tec LRT 1995 Green Livery",
@@ -558,9 +522,7 @@
             "texture_id":"mtr:s43tec_lrt1995/s43tec_lrt1995_green",
             "model":"mtr:s43tec_lrt1995/s43tec_lrt1995.bbmodel",
             "model_properties":"mtr:s43tec_lrt1995/s43tec_lrt1995.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "light_rail_mitsubishi",
-            "door_sound_base_id": "dt8_11"
+            "bve_sound_base_id": "stadtbahn_1995"
         },
         "s43tec_lrt2010_blue":{
             "name":"S43-Tec LRT 2010 Blue Livery",
@@ -575,9 +537,7 @@
             "texture_id":"mtr:s43tec_lrt2010/s43tec_lrt2010_blue",
             "model":"mtr:s43tec_lrt2010/s43tec_lrt2010.bbmodel",
             "model_properties":"mtr:s43tec_lrt2010/s43tec_lrt2010.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "s_train",
-            "door_sound_base_id": "lrt2010"
+            "bve_sound_base_id": "stadtbahn_2010"
         },
         "s43tec_lrt2010_yellow":{
             "name":"S43-Tec LRT 2010 Yellow Livery",
@@ -592,9 +552,7 @@
             "texture_id":"mtr:s43tec_lrt2010/s43tec_lrt2010_yellow",
             "model":"mtr:s43tec_lrt2010/s43tec_lrt2010.bbmodel",
             "model_properties":"mtr:s43tec_lrt2010/s43tec_lrt2010.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "s_train",
-            "door_sound_base_id": "lrt2010"
+            "bve_sound_base_id": "stadtbahn_2010"
         },
         "s43tec_lrt2010_green":{
             "name":"S43-Tec LRT 2010 Green Livery",
@@ -609,9 +567,7 @@
             "texture_id":"mtr:s43tec_lrt2010/s43tec_lrt2010_green",
             "model":"mtr:s43tec_lrt2010/s43tec_lrt2010.bbmodel",
             "model_properties":"mtr:s43tec_lrt2010/s43tec_lrt2010.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "s_train",
-            "door_sound_base_id": "lrt2010"
+            "bve_sound_base_id": "stadtbahn_2010"
         },
         "s43tec_lrt2020_blue":{
             "name":"S43-Tec LRT 2020 Blue Livery",
@@ -626,9 +582,7 @@
             "texture_id":"mtr:s43tec_lrt2020/s43tec_lrt2020_blue",
             "model":"mtr:s43tec_lrt2020/s43tec_lrt2020.bbmodel",
             "model_properties":"mtr:s43tec_lrt2020/s43tec_lrt2020.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2020_yellow":{
             "name":"S43-Tec LRT 2020 Yellow Livery",
@@ -643,9 +597,7 @@
             "texture_id":"mtr:s43tec_lrt2020/s43tec_lrt2020_yellow",
             "model":"mtr:s43tec_lrt2020/s43tec_lrt2020.bbmodel",
             "model_properties":"mtr:s43tec_lrt2020/s43tec_lrt2020.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2020_green":{
             "name":"S43-Tec LRT 2020 Green Livery",
@@ -660,9 +612,7 @@
             "texture_id":"mtr:s43tec_lrt2020/s43tec_lrt2020_green",
             "model":"mtr:s43tec_lrt2020/s43tec_lrt2020.bbmodel",
             "model_properties":"mtr:s43tec_lrt2020/s43tec_lrt2020.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt1978_drivable":{
             "name":"S43-Tec LRT 1978 Drivable",
@@ -670,16 +620,14 @@
             "wikipedia_article":"",
             "color":"62CF43",
             "train_barrier_id":"",
-            "door_animation_type":"PLUG_SLOW",
+            "door_animation_type":"BOUNCY_2",
             "render_door_overlay":false,
             "rider_offset":0.0,
             "texture_id":"mtr:s43tec_lrt1975/s43tec_lrt1978",
             "model":"mtr:s43tec_lrt1975/s43tec_lrt1975.bbmodel",
             "model_properties":"mtr:s43tec_lrt1975/s43tec_lrt1975_dr.json",
             "has_gangway_connection": false,
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "mlr",
-            "door_sound_base_id": "b_druckluft"
+            "bve_sound_base_id": "stadtbahn_1975"
         },
         "s43tec_lrt2020_blue_drivable":{
             "name":"S43-Tec LRT 2020 Blue Livery Drivable",
@@ -694,9 +642,7 @@
             "texture_id":"mtr:s43tec_lrt2020/s43tec_lrt2020_blue",
             "model":"mtr:s43tec_lrt2020/s43tec_lrt2020.bbmodel",
             "model_properties":"mtr:s43tec_lrt2020/s43tec_lrt2020_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2020_yellow_drivable":{
             "name":"S43-Tec LRT 2020 Yellow Livery Drivable",
@@ -711,9 +657,7 @@
             "texture_id":"mtr:s43tec_lrt2020/s43tec_lrt2020_yellow",
             "model":"mtr:s43tec_lrt2020/s43tec_lrt2020.bbmodel",
             "model_properties":"mtr:s43tec_lrt2020/s43tec_lrt2020_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2020_green_drivable":{
             "name":"S43-Tec LRT 2020 Green Livery Drivable",
@@ -728,9 +672,7 @@
             "texture_id":"mtr:s43tec_lrt2020/s43tec_lrt2020_green",
             "model":"mtr:s43tec_lrt2020/s43tec_lrt2020.bbmodel",
             "model_properties":"mtr:s43tec_lrt2020/s43tec_lrt2020_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2022real":{
             "name":"S43-Tec LRT 2022",
@@ -745,9 +687,7 @@
             "texture_id":"mtr:s43tec_lrt2022/s43tec_lrt2022real",
             "model":"mtr:s43tec_lrt2022/s43tec_lrt2022.bbmodel",
             "model_properties":"mtr:s43tec_lrt2022/s43tec_lrt2022.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2022real_blue":{
             "name":"S43-Tec LRT 2022 Blue Livery",
@@ -762,9 +702,7 @@
             "texture_id":"mtr:s43tec_lrt2022/s43tec_lrt2022real_blue",
             "model":"mtr:s43tec_lrt2022/s43tec_lrt2022.bbmodel",
             "model_properties":"mtr:s43tec_lrt2022/s43tec_lrt2022.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2022real_yellow":{
             "name":"S43-Tec LRT 2022 Yellow Livery",
@@ -779,9 +717,7 @@
             "texture_id":"mtr:s43tec_lrt2022/s43tec_lrt2022real_yellow",
             "model":"mtr:s43tec_lrt2022/s43tec_lrt2022.bbmodel",
             "model_properties":"mtr:s43tec_lrt2022/s43tec_lrt2022.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2022real_green":{
             "name":"S43-Tec LRT 2022 Green Livery",
@@ -796,9 +732,7 @@
             "texture_id":"mtr:s43tec_lrt2022/s43tec_lrt2022real_green",
             "model":"mtr:s43tec_lrt2022/s43tec_lrt2022.bbmodel",
             "model_properties":"mtr:s43tec_lrt2022/s43tec_lrt2022.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2022real_driveable":{
             "name":"S43-Tec LRT 2022 Driveable",
@@ -813,9 +747,7 @@
             "texture_id":"mtr:s43tec_lrt2022/s43tec_lrt2022real",
             "model":"mtr:s43tec_lrt2022/s43tec_lrt2022.bbmodel",
             "model_properties":"mtr:s43tec_lrt2022/s43tec_lrt2022_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2022real_blue_driveable":{
             "name":"S43-Tec LRT 2022 Blue Livery Driveable",
@@ -830,9 +762,7 @@
             "texture_id":"mtr:s43tec_lrt2022/s43tec_lrt2022real_blue",
             "model":"mtr:s43tec_lrt2022/s43tec_lrt2022.bbmodel",
             "model_properties":"mtr:s43tec_lrt2022/s43tec_lrt2022_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2022real_yellow_driveable":{
             "name":"S43-Tec LRT 2022 Yellow Livery Driveable",
@@ -847,9 +777,7 @@
             "texture_id":"mtr:s43tec_lrt2022/s43tec_lrt2022real_yellow",
             "model":"mtr:s43tec_lrt2022/s43tec_lrt2022.bbmodel",
             "model_properties":"mtr:s43tec_lrt2022/s43tec_lrt2022_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
+            "bve_sound_base_id": "stadtbahn_2018"
         },
         "s43tec_lrt2022real_green_driveable":{
             "name":"S43-Tec LRT 2022 Green Livery Driveable",
@@ -864,9 +792,232 @@
             "texture_id":"mtr:s43tec_lrt2022/s43tec_lrt2022real_green",
             "model":"mtr:s43tec_lrt2022/s43tec_lrt2022.bbmodel",
             "model_properties":"mtr:s43tec_lrt2022/s43tec_lrt2022_dr.json",
-            "speed_sound_count": 90,
-            "speed_sound_base_id": "c1141a",
-            "door_sound_base_id": "lrt2020"
-        }
+            "bve_sound_base_id": "stadtbahn_2018"
+        },
+		"s43tec_lrt2024_blue":{
+			"name":"S43-Tec LRT 2024",
+			"description":"A fictional LRV from Germany, built in 2024. Serves as an alternative to the LRT 2020.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_blue",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024.json",
+			"bve_sound_base_id": "stadtbahn_2026"
+		},
+		"s43tec_lrt2024_green":{
+			"name":"S43-Tec LRT 2024 Green",
+			"description":"A fictional LRV from Germany, built in 2024. Serves as an alternative to the LRT 2020.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_green",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024.json",
+			"bve_sound_base_id": "stadtbahn_2026"
+		},
+		"s43tec_lrt2024_yellow":{
+			"name":"S43-Tec LRT 2024 Yellow",
+			"description":"A fictional LRV from Germany, built in 2024. Serves as an alternative to the LRT 2020.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_yellow",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024.json",
+			"bve_sound_base_id": "stadtbahn_2026"
+		},
+			"s43tec_lrt2024_blue_drivable":{
+			"name":"S43-Tec LRT 2024 Blue Drivable",
+			"description":"A fictional LRV from Germany, built in 2024. Serves as an alternative to the LRT 2020. Without a driver, suitable for drivables.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_blue",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024_dr.json",
+			"bve_sound_base_id": "stadtbahn_2026"
+		},
+		"s43tec_lrt2024_green_drivable":{
+			"name":"S43-Tec LRT 2024 Green Drivable",
+			"description":"A fictional LRV from Germany, built in 2024. Serves as an alternative to the LRT 2020. Without a driver, suitable for drivables.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_green",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024_dr.json",
+			"bve_sound_base_id": "stadtbahn_2026"
+		},
+		"s43tec_lrt2024_yellow_drivable":{
+			"name":"S43-Tec LRT 2024 Yellow Drivable",
+			"description":"A fictional LRV from Germany, built in 2024. Serves as an alternative to the LRT 2020. Without a driver, suitable for drivables.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_yellow",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024_dr.json",
+			"bve_sound_base_id": "stadtbahn_2026"
+		},
+		"s43tec_lrt2024_steamville":{
+			"name":"S43-Tec LRT 2024 Steamville Advert",
+			"description":"A fictional LRV from Germany, built in 2024. Serves as an alternative to the LRT 2020. This is advert for the minecraft server steamville.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_steamville",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024_dr.json",
+			"bve_sound_base_id": "stadtbahn_2026"
+		},
+	    "s43tec_lightmetro2014_blue":{
+        "name":"S43-Tec LightMetro 2014 Blue Livery",
+        "description":"A train for a metro system, based on the LRT series. Built in 2014 with a blue livery.",
+        "wikipedia_article":"",
+        "color":"B92424",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014_blue",
+        "model":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014.bbmodel",
+        "model_properties":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014.json",
+        "bve_sound_base_id": "stadtbahn_2018"
+				},
+	    "s43tec_lightmetro2014_green":{
+        "name":"S43-Tec LightMetro 2014 Green Livery",
+        "description":"A train for a metro system, based on the LRT series. Built in 2014 with a green livery.",
+        "wikipedia_article":"",
+        "color":"B92424",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014_green",
+        "model":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014.bbmodel",
+        "model_properties":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014.json",
+        "bve_sound_base_id": "stadtbahn_2018"
+						},
+	    "s43tec_lightmetro2014_yellow":{
+        "name":"S43-Tec LightMetro 2014 Yellow Livery",
+        "description":"A train for a metro system, based on the LRT series. Built in 2014 with a yellow livery.",
+        "wikipedia_article":"",
+        "color":"B92424",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014_yellow",
+        "model":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014.bbmodel",
+        "model_properties":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014.json",
+        "bve_sound_base_id": "stadtbahn_2018"
+						},
+	    "s43tec_lightmetro2014_purple":{
+        "name":"S43-Tec LightMetro 2014 Purple Livery",
+        "description":"A train for a metro system, based on the LRT series. Built in 2014 with a purple livery.",
+        "wikipedia_article":"",
+        "color":"B92424",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014_purple",
+        "model":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014.bbmodel",
+        "model_properties":"mtr:s43tec_lightmetro2014/s43tec_lightmetro2014.json",
+        "bve_sound_base_id": "stadtbahn_2018"
+		},
+		    "s43tec_lightmetro2023_blue":{
+        "name":"S43-Tec LightMetro 2023 Blue Livery",
+        "description":"A train for a metro system, based on the LRT series. Built in 2023 with a Blue Livery.",
+        "wikipedia_article":"",
+        "color":"B92424",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023_blue",
+        "model":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.bbmodel",
+        "model_properties":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.json",
+        "bve_sound_base_id": "stadtbahn_2026"
+		},
+		    "s43tec_lightmetro2023_green":{
+        "name":"S43-Tec LightMetro 2023 Green Livery",
+        "description":"A train for a metro system, based on the LRT series. Built in 2023 with a green Livery.",
+        "wikipedia_article":"",
+        "color":"B92424",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023_green",
+        "model":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.bbmodel",
+        "model_properties":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.json",
+        "bve_sound_base_id": "stadtbahn_2026"
+		},
+		    "s43tec_lightmetro2023_yellow":{
+        "name":"S43-Tec LightMetro 2023 yellow Livery",
+        "description":"A train for a metro system, based on the LRT series. Built in 2023 with a yellow Livery.",
+        "wikipedia_article":"",
+        "color":"B92424",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023_yellow",
+        "model":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.bbmodel",
+        "model_properties":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.json",
+        "bve_sound_base_id": "stadtbahn_2026"
+		},
+		    "s43tec_lightmetro2023_purple":{
+        "name":"S43-Tec LightMetro 2023 purple Livery",
+        "description":"A train for a metro system, based on the LRT series. Built in 2023 with a purple Livery.",
+        "wikipedia_article":"",
+        "color":"B92424",
+        "gangway_connection_id":"",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023_purple",
+        "model":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.bbmodel",
+        "model_properties":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.json",
+        "bve_sound_base_id": "stadtbahn_2026"
+		}
     }
 }
