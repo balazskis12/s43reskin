@@ -1003,6 +1003,21 @@
 			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
 			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024.json",
 			"bve_sound_base_id": "stadtbahn_2026"
+			},
+		"s43tec_lrt2024_meme":{
+			"name":"S43-Tec LRT 2024 Easter Egg Tram",
+			"description":"A fictional LRV from Germany, built in 2024. Serves as an alternative to the LRT 2020. It has lots of Easter Eggs to find lol.",
+			"wikipedia_article":"",
+			"color":"62CF43",
+			"gangway_connection_id":"mtr:s43tec_lrt2024/testtram",
+			"train_barrier_id":"",
+			"door_animation_type":"PLUG_FAST",
+			"render_door_overlay":false,
+			"rider_offset":0.0,
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_shiny_trubbish",
+			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
+			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024.json",
+			"bve_sound_base_id": "stadtbahn_2026"
 		},
 	    "s43tec_lightmetro2014_blue":{
 			"name":"S43-Tec LightMetro 2014 Blue Livery",
@@ -1153,6 +1168,21 @@
 			"model":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.bbmodel",
 			"model_properties":"mtr:s43tec_lightmetro2023/s43tec_lightmetro2023.json",
 			"bve_sound_base_id": "stadtbahn_2026"
+			},
+    "s43tec_lrt1987_rick":{
+        "name":"S43-Tec LRT 1987 Easter Egg Tram",
+        "description":"A fictional LRV from Germany, built in 1987 full of Easter Eggs lol.",
+        "wikipedia_article":"",
+        "color":"62CF43",
+        "gangway_connection_id":"mtr:s43tec_lrt1987/testtram",
+        "train_barrier_id":"",
+        "door_animation_type":"PLUG_FAST",
+        "render_door_overlay":false,
+        "rider_offset":0.0,
+        "texture_id":"mtr:s43tec_lrt1987/s43tec_lrt1987_rick",
+        "model":"mtr:s43tec_lrt1987/s43tec_lrt1987.bbmodel",
+        "model_properties":"mtr:s43tec_lrt1987/s43tec_lrt1987.json",
+        "bve_sound_base_id": "stadtbahn_1987"
 		}
     }
 }
