@@ -1014,7 +1014,7 @@
 			"door_animation_type":"PLUG_FAST",
 			"render_door_overlay":false,
 			"rider_offset":0.0,
-			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_shiny_trubbish",
+			"texture_id":"mtr:s43tec_lrt2024/s43tec_lrt2024_meme",
 			"model":"mtr:s43tec_lrt2024/s43tec_lrt2024.bbmodel",
 			"model_properties":"mtr:s43tec_lrt2024/s43tec_lrt2024.json",
 			"bve_sound_base_id": "stadtbahn_2026"
